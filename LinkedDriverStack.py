@@ -1,0 +1,3 @@
+import LinkedStacks
+
+MyStack = L
